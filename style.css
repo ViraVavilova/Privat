@@ -1,0 +1,13 @@
+
+body{
+	background-color: grey;
+}
+.main{
+	background-color: green;
+	height: 400px;
+	width: 400px;
+	margin: 0 auto;
+	border: 10px solid hsla(0,0%,100%,.5);
+	background: white;
+	background-clip: padding-box;
+}
